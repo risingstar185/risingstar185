@@ -117,8 +117,8 @@ Machine Learning
         ↓
 Cloud & DevOps
 ---
-
-###  📈 My Developer Journey
+```
+📈 My Developer Journey
 Frontend
    ↓
 MERN Stack
@@ -132,8 +132,8 @@ Machine Learning
 AI + Full Stack
    ↓
 Scalable Systems
-
-
+---
+```
 ##🎯 2026 Goals
  Build production-ready full-stack applications
  Improve DSA & problem solving
@@ -143,8 +143,6 @@ Scalable Systems
  Build AI-powered applications
  Crack a top software engineering role
 
-
-**Bas 3 cheezein change karni hain:**
 
 1. `YOUR_USERNAME` → apna GitHub username
 2. `YOUR_EMAIL` → email
