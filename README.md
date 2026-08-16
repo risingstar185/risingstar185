@@ -42,13 +42,13 @@ I enjoy turning ideas into scalable products using modern web technologies, back
 ### Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,numpy,pandas,matplotlib,seaborn" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,redis,render,vercel,netlify" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ A full-stack movie recommendation platform that provides personalized movie reco
 
 **Tech:** Next.js · Python · Machine Learning · Node.js · MongoDB
 
-🔗 [View Project](#)
+🔗 [View Project](https://movie-recommendation-website-qudq.onrender.com/)
 
 ---
 
@@ -71,27 +71,7 @@ An AI-powered meeting platform with real-time communication, transcription and a
 
 **Tech:** React · Node.js · Socket.io · WebRTC · Deepgram · Gemini
 
-🔗 [View Project](#)
-
----
-
-### 🌱 Plant Disease Detection
-
-Machine learning application for detecting plant diseases from leaf images.
-
-**Tech:** Python · TensorFlow · OpenCV · Machine Learning
-
-🔗 [View Project](#)
-
----
-
-### 💬 Real-Time Chat Application
-
-A real-time chat application with authentication and instant messaging.
-
-**Tech:** MERN · Socket.io · JWT
-
-🔗 [View Project](#)
+🔗 [View Project](https://intellmeet-1-zjen.onrender.com/)
 
 ---
 
@@ -107,6 +87,8 @@ A real-time chat application with authentication and instant messaging.
 ## 🧠 Currently Learning
 
 ```text
+Nextjs
+        ↓
 Data Structures & Algorithms
         ↓
 Advanced Backend Development
@@ -144,9 +126,8 @@ Scalable Systems
  Crack a top software engineering role
 
 
-1. `YOUR_USERNAME` → apna GitHub username
-2. `YOUR_EMAIL` → email
-3. Projects ke `View Project` me apne actual GitHub/live links
+1. `risingstar185` → apna GitHub username
+2. `patelayush9554@gmail.com` → email
 
 Aur ek suggestion: **GitHub stats ko abhi optional rakho**. Profile ko truly premium banana hai to main next step me is README ko **dark + animated + contribution graph + typing animation + professional banner** wala bana dunga.
 
