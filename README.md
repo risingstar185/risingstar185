@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- HERO -->
-[<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:38bdf8&height=200&section=header&text=AYUSH%20PATEL&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20%26%20ML&descAlignY=60&descSize=18" width="100%" />](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ayush%20Patel)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Ayush%20Patel" width="100%"/>
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+%2B+Next.js+Developer;Building+AI-Powered+Applications+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Turning+Ideas+into+Real+Products+%E2%9A%A1" />
 
