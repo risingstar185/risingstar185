@@ -229,15 +229,6 @@ A real-time meeting platform that combines communication, transcription and AI-p
 </div>
 
 ---
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=risingstar185&theme=algolia&no-frame=true&no-bg=true&row=1"/>
-
-</div>
-
 ---
 
 # 📈 Contribution Graph
